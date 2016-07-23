@@ -18,6 +18,8 @@
   "homepage": "https://github.com/caioverissimo/angular-unit-test#readme",
   "devDependencies": {
     "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8",
+    "jasmine": "^2.4.1",
     "karma": "^1.1.1",
     "karma-chrome-launcher": "^1.0.1",
     "karma-cli": "^1.0.1",
