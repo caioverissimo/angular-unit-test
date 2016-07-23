@@ -1,0 +1,7 @@
+Todo list - CHARLES - NODE REST API
+===================================
+
+User Stories:
+* Initialize dependencies installation
+- Create a first test
+
