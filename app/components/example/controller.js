@@ -3,7 +3,7 @@ angular.module('notesApp', [])
 .controller('ListCtrl', [function(){
 
 	var self = this;
-	self.items [
+	self.items = [
 		{id: 1, label: 'First', done: true},
 		{id: 2, label: 'Second', done: false}
 	];
@@ -11,7 +11,7 @@ angular.module('notesApp', [])
 	self.getDoneClass = function(item){
 		return{
 			finished: item.done,
-			unfinnished: !item.done
+			unfinished: !item.done
 		}
 	};
 
