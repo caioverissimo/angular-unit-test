@@ -26,6 +26,5 @@ describe('Controller: ListCtrl', function(){
 		expect(actualClass.finished).toBeFalsy();
 		expect(actualClass.unfinished).toBeTruthy();
 	});
-
-
+	
 });
