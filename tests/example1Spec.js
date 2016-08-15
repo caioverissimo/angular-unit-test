@@ -1,3 +1,5 @@
+// example2: Sitepoint — "Unit and End to End Testing in AngularJS"
+
 describe('Controller: ListCtrl', function(){
 
 	beforeEach(module('notesApp'));
@@ -26,5 +28,5 @@ describe('Controller: ListCtrl', function(){
 		expect(actualClass.finished).toBeFalsy();
 		expect(actualClass.unfinished).toBeTruthy();
 	});
-	
+
 });

@@ -9,7 +9,7 @@ Tags: Javascript, Js, AngularJS, Jasmine, Karma, Unit Tests, TDD
 
 Tecnologies: Javascript, AngularJS, Jasmine, Karma
 
-Main Reference: AngularJS: Up And Running
+Main Reference: AngularJS: Up And Running (book)
 
 Description: Basic try to developing unit tests for AngularJS FrontEnd
 

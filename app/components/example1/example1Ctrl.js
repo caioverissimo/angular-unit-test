@@ -1,3 +1,5 @@
+// example1: "AngularJS: Up And Running" (book)
+
 angular.module('notesApp', [])
 
 .controller('ListCtrl', [function(){
